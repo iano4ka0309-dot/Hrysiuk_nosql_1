@@ -1,0 +1,6 @@
+.env
+*.env
+dataset.csv
+kaggle.json
+__pycache__/
+.venv/
